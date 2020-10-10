@@ -1,0 +1,219 @@
+body {
+    height: 100vh;
+    background-image: url(montañaimagen.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 414px;
+}
+
+.foto {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50px;
+    margin-right: 2.5rem;
+    margin-bottom: 30px;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    margin-top: 1.5rem;
+    margin-left: 20px;
+}
+
+.ImagenLupa {
+    fill: currentColor;
+    margin-bottom: 10px;
+    margin-left: 230px;
+    color: white;
+    background-color: rgba(131, 126, 124, 0.405);
+    padding-left: 7px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    border-radius: 30px;
+    margin-top: 0.5rem;
+}
+
+h1 {
+    color: white;
+    margin-left: 2rem;
+    margin-top: 0.5rem;
+    font-size: 2.5rem;
+    margin-bottom: 0px;
+    /*text-transform: uppercase;*/
+}
+
+h2 {
+    color: rgb(230, 247, 83);
+    margin-left: 2rem;
+    margin-top: 0.2rem;
+    margin-bottom: 1.5rem;
+    font-size: 2.5rem;
+    /*text-transform: uppercase;*/
+}
+
+input {
+    margin-left: 10px;
+    width: 85%;
+    height: 30px;
+    border-radius: 30px;
+    border: 0;
+    background-color: rgb(247, 243, 235);
+}
+
+input:focus {
+    outline: 0;
+    border: 0;
+}
+
+img {
+    width: 8rem;
+    height: 8rem;
+    object-fit: cover;
+    border-radius: 20px;
+    margin-left: 30px;
+}
+
+.menu {
+    fill: rgb(255, 255, 255);
+    margin-top: 0.8rem;
+}
+
+.texto {
+    color: white;
+    margin-top: 20px;
+    margin-left: 2rem;
+    margin-right: 3rem;
+    font-size: 1.2rem;
+    margin-bottom: 0px;
+    font-family: 'Segoe UI';
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 0.5rem;
+}
+
+li {
+    color: white;
+    float: left;
+    margin-right: 15px;
+    padding: 0 4px;
+    text-align: center;
+    line-height: 50px;
+    line-height: 100px;
+}
+
+div.noticia {
+    width: 98%;
+    margin-left: 10px;
+    margin-top: 95px;
+    color: rgb(0, 0, 0);
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+    height: 160px;
+}
+
+aside {
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+div.noticia img.izquierda {
+    float: left;
+    border-radius: 20px;
+}
+
+.estrellas {
+    fill: currentColor;
+    margin-left: 15px;
+    color: yellow;
+}
+
+.estrellasC {
+    fill: gray;
+    margin-left: 10px;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-family: 'Verdana';
+}
+
+.boton {
+    margin-top: 0px;
+    display: flex;
+    background-color: rgb(209, 231, 7);
+    width: 90px;
+    border-radius: 30px;
+    color: rgb(14, 14, 14);
+    font-size: 20px;
+    padding-left: 12px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    margin-left: 215px;
+}
+
+div.noticia1 {
+    width: 98%;
+    margin-left: 10px;
+    margin-top: 35px;
+    color: rgb(0, 0, 0);
+    border-radius: 30px;
+    background-color: rgb(255, 255, 255);
+    height: 150px;
+}
+
+.texto1 {
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+div.noticia1 img.izquierda1 {
+    float: left;
+    border-radius: 25px;
+    margin-top: 9px;
+}
+
+.estrellas1 {
+    fill: currentColor;
+    margin-left: 15px;
+    color: yellow;
+}
+
+.estrellasC1 {
+    fill: gray;
+    margin-left: 10px;
+}
+
+.texto2 {
+    color: black;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-family: 'Verdana';
+}
+
+.boton1 {
+    display: flex;
+    background-color: rgb(209, 231, 7);
+    width: 90px;
+    border-radius: 25px;
+    color: rgb(14, 14, 14);
+    font-size: 20px;
+    padding-left: 12px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    margin-left: 215px;
+}
