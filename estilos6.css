@@ -1,5 +1,5 @@
 body {
-    height: 100vh;
+    height: 100%;
     background-image: url(montañaimagen.jpg);
     background-position: center;
     background-repeat: no-repeat;
@@ -11,7 +11,7 @@ body {
     height: 3rem;
     width: 3rem;
     border-radius: 50px;
-    margin-right: 2.5rem;
+    margin-right: 2rem;
     margin-bottom: 30px;
 }
 
@@ -93,7 +93,6 @@ img {
 
 ul {
     list-style-type: none;
-    margin-top: 0.5rem;
 }
 
 li {
@@ -107,8 +106,8 @@ li {
 }
 
 div.noticia {
-    width: 98%;
-    margin-left: 10px;
+    width: 95%;
+    margin-left: 5px;
     margin-top: 95px;
     color: rgb(0, 0, 0);
     border-radius: 30px;
@@ -150,11 +149,11 @@ h3 {
     margin-top: 0px;
     display: flex;
     background-color: rgb(209, 231, 7);
-    width: 90px;
-    border-radius: 30px;
+    width: 95px;
+    border-radius: 50px;
     color: rgb(14, 14, 14);
     font-size: 20px;
-    padding-left: 12px;
+    padding-left: 20px;
     padding-right: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -164,8 +163,8 @@ h3 {
 
 div.noticia1 {
     width: 98%;
-    margin-left: 10px;
-    margin-top: 35px;
+    margin-left: 5px;
+    margin-top: 45px;
     color: rgb(0, 0, 0);
     border-radius: 30px;
     background-color: rgb(255, 255, 255);
@@ -206,11 +205,11 @@ div.noticia1 img.izquierda1 {
 .boton1 {
     display: flex;
     background-color: rgb(209, 231, 7);
-    width: 90px;
+    width: 95px;
     border-radius: 25px;
     color: rgb(14, 14, 14);
     font-size: 20px;
-    padding-left: 12px;
+    padding-left: 20px;
     padding-right: 10px;
     padding-top: 5px;
     padding-bottom: 5px;
